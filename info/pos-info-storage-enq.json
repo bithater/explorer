@@ -80,7 +80,11 @@
    {
     "pos_id": "9b1ee06cee4f5bfd51222d65f0077ecd75ec7b6cb123983f2f9844d792f26674",
     "logo": "profit stakers logo.png",
-     "website": "http://profit-stakers.tk/"
+     "website": "https://profit-stakers.tk/"
+  },
+   "description": {
+      "en": "The main task of Profit Stakers is to create the most comfortable and stable conditions for the equipment to work. We believe that PoS is much greener. In the future, we will try to transfer our capacities to alternative power sources."
+    }
   },
   {
     "pos_id": "6ae6aa98dcf68928fda8e236f709ec90133666fc746a5bbe5cba34ac7517df3c",
